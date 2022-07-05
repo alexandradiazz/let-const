@@ -1,0 +1,9 @@
+const PI=3.14;
+
+// The difference is that with let you can reassign but not redeclare, and with var you can reassign and redeclare. Let creates a block scope
+
+// var you can reassign and redeclare. const you can't reassign nor redeclare. const also creates a block scope
+
+// you can reassign let, you can't do that with const
+
+// hoisting is when using var, you have access to its name and undefined value before it is used
